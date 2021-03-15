@@ -1,0 +1,24 @@
+.thumbnail img {
+	height: 200px;
+}
+.thumbnail .caption h3 {
+	word-spacing: 9999999px; //to wrap by each word
+}
+.panel-default {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+header {
+    padding: 20px 5px 5px 5px;
+    /* border-bottom: thin solid lightgray; */
+    background-color: #0c426f;
+    color: white;
+}
+header>small{
+  text-transform: uppercase;
+}
+footer {
+    background-color: #083158;
+    border-top-color: #184978;
+    color: white;
+}
